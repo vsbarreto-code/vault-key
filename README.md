@@ -1,6 +1,6 @@
 # 🔐 VaultKey — Token Generation & Validation API
 
-API REST para geração e validação de tokens de acesso seguro, desenvolvida como desafio técnico backend com Spring Boot.
+Projeto desenvolvido como parte de uma série de desafios técnicos para treino de backend com Java e Spring Boot, simulando processos seletivos reais.
 
 ---
 
